@@ -22,3 +22,10 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
 });
+
+/* 
+Search CHAT GPT for reference of this code: 
+querySelectorAll vs querySelector
+
+
+
